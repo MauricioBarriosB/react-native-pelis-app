@@ -1,4 +1,11 @@
-REACT NATIVE PELIS APP
+https://reactnative.dev/
+
+npx create-expo-app@latest ./   (crear la app en el mismo directorio)
+
+npx expo start (run mobile app to development)
+
+npm run web (run browser to development)
+
 
 
 › Web is waiting on http://localhost:8081
